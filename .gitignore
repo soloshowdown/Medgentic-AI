@@ -1,0 +1,16 @@
+# Next.js build folders
+.next/
+ui/react-dashboard/.next/
+
+# Python stuff
+__pycache__/
+*.pyc
+
+# Node dependencies
+node_modules/
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
